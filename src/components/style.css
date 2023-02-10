@@ -1,0 +1,15 @@
+h4{
+    text-decoration: none;
+}
+
+body{
+    background-color: rgba(128, 128, 128, 0.121);
+}
+
+.sidebar_button{
+    position: absolute;
+    top: 2px;
+    left: -10px;
+}
+
+
