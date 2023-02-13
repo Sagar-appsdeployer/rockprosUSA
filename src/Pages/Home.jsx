@@ -1,10 +1,14 @@
 import React from "react";
 import Sidebar from "../components/Sidebar";
 import RockProsUSAlogo from "../assets/download.png";
+import Header from "../components/Header";
+import SearchBar from "./SearchBar";
 
 const Home = () => {
   return (
     <>
+    <Header/>
+    <SearchBar/>
       <Sidebar />
    
       <h1 className="text-center">
